@@ -14,7 +14,7 @@ Once a plank is held in the correct orientation nails appear. When you punch a n
 
 ### Bucket
 Use a bucket to scoop up water and throw it outside.
-![](https://github.com/StassijnsSam/DontDrown/blob/main/GIFs/BucketShowcase.gif)
+![](https://github.com/StassijnsSam/DontDrown/blob/main/GIFs/BucketScoop.gif)
 
 ### Climbing
 Use the ladder to climb up to the second story. Make use of your handy toolbelt to put your hammer away so you have both hands free.
